@@ -83,7 +83,7 @@
 
 ### How to Install
 
-  [New Project] -> [Import form Github] -> paste "https://github.com/qkqpttgf/OneManager-php" , after done, [Show] -> [In a New Window].  
+  [New Project] -> [Import form Github] -> paste "https://github.com/huali2580/OneManager-php" , after done, [Show] -> [In a New Window].  
 
 ---
 
